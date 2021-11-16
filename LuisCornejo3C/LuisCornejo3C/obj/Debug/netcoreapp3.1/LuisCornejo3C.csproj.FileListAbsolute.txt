@@ -1,0 +1,14 @@
+C:\Users\corne\source\repos\LuisCornejo3C\LuisCornejo3C\obj\Debug\netcoreapp3.1\LuisCornejo3C.csproj.AssemblyReference.cache
+C:\Users\corne\source\repos\LuisCornejo3C\LuisCornejo3C\obj\Debug\netcoreapp3.1\LuisCornejo3C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\source\repos\LuisCornejo3C\LuisCornejo3C\obj\Debug\netcoreapp3.1\LuisCornejo3C.AssemblyInfoInputs.cache
+C:\Users\corne\source\repos\LuisCornejo3C\LuisCornejo3C\obj\Debug\netcoreapp3.1\LuisCornejo3C.AssemblyInfo.cs
+C:\Users\corne\source\repos\LuisCornejo3C\LuisCornejo3C\obj\Debug\netcoreapp3.1\LuisCornejo3C.csproj.CoreCompileInputs.cache
+C:\Users\corne\source\repos\LuisCornejo3C\LuisCornejo3C\bin\Debug\netcoreapp3.1\LuisCornejo3C.exe
+C:\Users\corne\source\repos\LuisCornejo3C\LuisCornejo3C\bin\Debug\netcoreapp3.1\LuisCornejo3C.deps.json
+C:\Users\corne\source\repos\LuisCornejo3C\LuisCornejo3C\bin\Debug\netcoreapp3.1\LuisCornejo3C.runtimeconfig.json
+C:\Users\corne\source\repos\LuisCornejo3C\LuisCornejo3C\bin\Debug\netcoreapp3.1\LuisCornejo3C.runtimeconfig.dev.json
+C:\Users\corne\source\repos\LuisCornejo3C\LuisCornejo3C\bin\Debug\netcoreapp3.1\LuisCornejo3C.dll
+C:\Users\corne\source\repos\LuisCornejo3C\LuisCornejo3C\bin\Debug\netcoreapp3.1\LuisCornejo3C.pdb
+C:\Users\corne\source\repos\LuisCornejo3C\LuisCornejo3C\obj\Debug\netcoreapp3.1\LuisCornejo3C.dll
+C:\Users\corne\source\repos\LuisCornejo3C\LuisCornejo3C\obj\Debug\netcoreapp3.1\LuisCornejo3C.pdb
+C:\Users\corne\source\repos\LuisCornejo3C\LuisCornejo3C\obj\Debug\netcoreapp3.1\LuisCornejo3C.genruntimeconfig.cache
