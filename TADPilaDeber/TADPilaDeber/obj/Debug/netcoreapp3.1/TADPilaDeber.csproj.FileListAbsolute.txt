@@ -1,0 +1,14 @@
+C:\Users\corne\source\repos\TADPilaDeber\TADPilaDeber\bin\Debug\netcoreapp3.1\TADPilaDeber.exe
+C:\Users\corne\source\repos\TADPilaDeber\TADPilaDeber\bin\Debug\netcoreapp3.1\TADPilaDeber.deps.json
+C:\Users\corne\source\repos\TADPilaDeber\TADPilaDeber\bin\Debug\netcoreapp3.1\TADPilaDeber.runtimeconfig.json
+C:\Users\corne\source\repos\TADPilaDeber\TADPilaDeber\bin\Debug\netcoreapp3.1\TADPilaDeber.runtimeconfig.dev.json
+C:\Users\corne\source\repos\TADPilaDeber\TADPilaDeber\bin\Debug\netcoreapp3.1\TADPilaDeber.dll
+C:\Users\corne\source\repos\TADPilaDeber\TADPilaDeber\bin\Debug\netcoreapp3.1\TADPilaDeber.pdb
+C:\Users\corne\source\repos\TADPilaDeber\TADPilaDeber\obj\Debug\netcoreapp3.1\TADPilaDeber.csproj.AssemblyReference.cache
+C:\Users\corne\source\repos\TADPilaDeber\TADPilaDeber\obj\Debug\netcoreapp3.1\TADPilaDeber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne\source\repos\TADPilaDeber\TADPilaDeber\obj\Debug\netcoreapp3.1\TADPilaDeber.AssemblyInfoInputs.cache
+C:\Users\corne\source\repos\TADPilaDeber\TADPilaDeber\obj\Debug\netcoreapp3.1\TADPilaDeber.AssemblyInfo.cs
+C:\Users\corne\source\repos\TADPilaDeber\TADPilaDeber\obj\Debug\netcoreapp3.1\TADPilaDeber.csproj.CoreCompileInputs.cache
+C:\Users\corne\source\repos\TADPilaDeber\TADPilaDeber\obj\Debug\netcoreapp3.1\TADPilaDeber.dll
+C:\Users\corne\source\repos\TADPilaDeber\TADPilaDeber\obj\Debug\netcoreapp3.1\TADPilaDeber.pdb
+C:\Users\corne\source\repos\TADPilaDeber\TADPilaDeber\obj\Debug\netcoreapp3.1\TADPilaDeber.genruntimeconfig.cache
